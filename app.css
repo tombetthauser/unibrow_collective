@@ -3,7 +3,7 @@ body {
   padding:0;
   font-family: Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 0.9em;
+  font-size: 0.8em;
   font-weight: 300;
   color: #444;
 }
@@ -37,7 +37,7 @@ a {
 }
 
 #title-link {
-  font-size: 1.2em;
+  font-size: 1.75em;
   text-decoration: none;
   color: #444;
 }
@@ -194,4 +194,11 @@ a {
 
 .head_image {
   width: 100%;
+}
+
+.body_image {
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
 }
